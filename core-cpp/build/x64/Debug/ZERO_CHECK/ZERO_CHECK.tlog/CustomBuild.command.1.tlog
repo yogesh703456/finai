@@ -1,0 +1,10 @@
+^C:\USERS\HP\DOWNLOADS\FINAI FOUN\CORE-CPP\BUILD\CMAKEFILES\B04C6623383EF762C8D85588AE5C5281\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/hp/Downloads/finai foun/core-cpp" "-BC:/Users/hp/Downloads/finai foun/core-cpp/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/hp/Downloads/finai foun/core-cpp/build/FinAITradingCore.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

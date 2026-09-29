@@ -1,0 +1,13 @@
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/trading_core.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/finai_core.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/risk_engine_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/paper_trading_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/ipc_bridge_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/ipc_transport_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/execution_engine_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/market_loop_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/market_data_engine_smoke.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/market_data_performance.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hp/Downloads/finai foun/core-cpp/build/CMakeFiles/ZERO_CHECK.dir

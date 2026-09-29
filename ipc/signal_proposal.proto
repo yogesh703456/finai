@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package finai;
+
+option csharp_namespace = "FinAI.Protocol";
+
+message SignalProposal {
+  string version = 1;
+  string symbol = 2;
+  string side = 3; // BUY | SELL
+  double confidence = 4;
+  string reason = 5;
+  uint64 timestamp_ms = 6;
+}
+
+message ProposalAck {
+  bool accepted = 1;
+  string reason = 2;
+}

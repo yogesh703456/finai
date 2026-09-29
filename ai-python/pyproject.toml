@@ -1,0 +1,12 @@
+[project]
+name = "finai-ai"
+version = "0.1.0"
+description = "AI research and proposal layer for the FinAI trading platform"
+requires-python = ">=3.11"
+dependencies = [
+  "pydantic-settings>=2.0.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

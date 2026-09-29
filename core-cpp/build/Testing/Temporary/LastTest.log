@@ -1,0 +1,108 @@
+Start testing: Sep 29 12:04 India Standard Time
+----------------------------------------------------------
+1/7 Testing: risk_engine_smoke
+1/7 Test: risk_engine_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/risk_engine_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"risk_engine_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"risk_engine_smoke" end time: Sep 29 12:04 India Standard Time
+"risk_engine_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: paper_trading_smoke
+2/7 Test: paper_trading_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/paper_trading_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"paper_trading_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"paper_trading_smoke" end time: Sep 29 12:04 India Standard Time
+"paper_trading_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: ipc_bridge_smoke
+3/7 Test: ipc_bridge_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/ipc_bridge_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"ipc_bridge_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ipc_bridge_smoke" end time: Sep 29 12:04 India Standard Time
+"ipc_bridge_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: ipc_transport_smoke
+4/7 Test: ipc_transport_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/ipc_transport_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"ipc_transport_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ipc_transport_smoke" end time: Sep 29 12:04 India Standard Time
+"ipc_transport_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: execution_engine_smoke
+5/7 Test: execution_engine_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/execution_engine_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"execution_engine_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"execution_engine_smoke" end time: Sep 29 12:04 India Standard Time
+"execution_engine_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: market_loop_smoke
+6/7 Test: market_loop_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/market_loop_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"market_loop_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"market_loop_smoke" end time: Sep 29 12:04 India Standard Time
+"market_loop_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: market_data_engine_smoke
+7/7 Test: market_data_engine_smoke
+Command: "C:/Users/hp/Downloads/finai foun/core-cpp/build/Debug/market_data_engine_smoke.exe"
+Directory: C:/Users/hp/Downloads/finai foun/core-cpp/build
+"market_data_engine_smoke" start time: Sep 29 12:04 India Standard Time
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"market_data_engine_smoke" end time: Sep 29 12:04 India Standard Time
+"market_data_engine_smoke" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 29 12:04 India Standard Time

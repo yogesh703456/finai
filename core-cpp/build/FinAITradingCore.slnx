@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="13e0dfd5-f10d-3c98-bf57-e957007247a6" DefaultStartup="true">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="execution_engine_smoke.vcxproj"/>
+		<BuildDependency Project="finai_core.vcxproj"/>
+		<BuildDependency Project="ipc_bridge_smoke.vcxproj"/>
+		<BuildDependency Project="ipc_transport_smoke.vcxproj"/>
+		<BuildDependency Project="market_data_engine_smoke.vcxproj"/>
+		<BuildDependency Project="market_data_performance.vcxproj"/>
+		<BuildDependency Project="market_loop_smoke.vcxproj"/>
+		<BuildDependency Project="paper_trading_smoke.vcxproj"/>
+		<BuildDependency Project="risk_engine_smoke.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="RUN_TESTS.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="1bca9662-cd94-39f7-a354-35cc625d54b3">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="3bdb373f-ae11-3cb6-8111-8c7e5a582522"/>
+	<Project Path="execution_engine_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="42ab02d0-f767-3a71-b10d-be8ed15f2157">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="finai_core.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="1fac1669-6391-3164-a3e1-fefa76968772">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="ipc_bridge_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2d41f77b-87a2-3ee9-9ada-417b227a2304">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="ipc_transport_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="0ffc4e7e-5242-3df2-b75f-9886c33858f7">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="market_data_engine_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="afea8d50-6784-3e27-bdfa-586366ea0b58">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="market_data_performance.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="eec661e0-3b93-3f14-8e3e-7fce07c8773c">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="market_loop_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="6ee384c1-484c-3868-a7eb-1628b442dd68">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="paper_trading_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2fa5fdba-030c-35a6-b0d2-3b1f9fc5e17f">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="risk_engine_smoke.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="6fab1dac-685d-3ccd-8b73-d1e0f2036b4d">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="trading_core.vcxproj"/>
+	</Project>
+	<Project Path="trading_core.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="95f14a36-99cb-3f50-8ec6-aa5979e35a54">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+</Solution>

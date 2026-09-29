@@ -1,0 +1,8 @@
+risk_engine_smoke 21 0.000875376
+paper_trading_smoke 22 0.000832727
+ipc_bridge_smoke 20 0.000884595
+ipc_transport_smoke 17 0.00110922
+execution_engine_smoke 14 0.00134126
+market_loop_smoke 13 0.00139238
+market_data_engine_smoke 3 0.042595
+---

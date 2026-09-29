@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\execution_engine_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\finai_core.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\ipc_bridge_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\ipc_transport_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\market_data_engine_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\market_data_performance.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\market_loop_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\paper_trading_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\Debug\risk_engine_smoke.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Downloads\finai foun\core-cpp\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
